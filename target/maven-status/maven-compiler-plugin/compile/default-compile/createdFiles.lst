@@ -1,0 +1,7 @@
+com/webcrawler/WebCrawler.class
+com/webcrawler/models/Producer.class
+com/webcrawler/Clicker.class
+com/webcrawler/models/WikipediaConsumer.class
+com/webcrawler/models/InglesConsumer.class
+com/webcrawler/models/HBConsumer.class
+com/webcrawler/models/Item.class
